@@ -1,17 +1,18 @@
 # BinarneDrzewoWyszukiwawcze
 Zaimplementuj (samodzielnie) binarne drzewo wyszukiwawcze i następujące operacje na nim:
 + t
-dodanie do drzewa napisu t
+   dodanie do drzewa napisu t
 <
-wypisanie minimum z drzewa
+  wypisanie minimum z drzewa
 >
-wypisanie maksimum z drzewa
+  wypisanie maksimum z drzewa
 h
-wypisanie wysokości drzewa (puste drzewo ma wysokość 0)
+  wypisanie wysokości drzewa (puste drzewo ma wysokość 0)
 1
-wypisanie co drugiego klucza w drzewie, zaczynając od minimum
+  wypisanie co drugiego klucza w drzewie, zaczynając od minimum
 2
-wypisanie co drugiego klucza w drzewie, zaczynając od następnika minimum
+  wypisanie co drugiego klucza w drzewie, zaczynając od następnika minimum
+  
 Kluczami w drzewie są napisy składające się z małych liter i nie dłuższe niż 16 znaków.
 Wejście
 
